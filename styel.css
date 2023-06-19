@@ -1,0 +1,111 @@
+.topnav {
+    background-color: #3a88fe;
+    overflow: auto;
+     align-items: center;
+    text-align: center;
+    border: white solid
+    }
+  topnav {
+    background-color: #3a88fe;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #0f79eb;
+    color: #00affa;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #00aaff;
+    color: white;
+  }
+  
+  h3{
+      color:#3a88fe;   
+      font-size:40px;
+      text-align: center;
+    }
+  
+  P{
+      color:#ffffff;
+      font-size:40px;
+      text-align: center;
+    }
+  
+  h1{
+      color:#2038ee;
+      font-size:35px;
+      text-align: center;
+      
+   }
+  
+  
+  
+  
+  
+  h1 {text-align: center; color:#00c7fc}
+          img {padding-left:1px}
+          h2{text-align: center; color:white}
+            body{ background-color:#3a88fe}
+          table {text-align: center; }
+          table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color:#535050;
+    color:white;
+    table-layout:fixed;
+    width: 180px; 
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  a:link {
+    color: white;
+      background-color: #00fdff;
+    text-decoration: none;
+  }
+  a:visited {
+    color: white;
+    background-color: Black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: Black;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yell;
+    background-color:Black;
+    text-decoration: underline;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
+  
+  h5 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+  }
